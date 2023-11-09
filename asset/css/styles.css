@@ -118,6 +118,7 @@ a {
     font-weight: 300;
 }
 
+.header-action__login:hover,
 .navbar__link:hover,
 .navbar__link--active {
     color: #fff;
